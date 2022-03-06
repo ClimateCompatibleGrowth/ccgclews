@@ -13,4 +13,4 @@ Kindly open Issues for any comment / feedback / proposal.
 
 You may contribute directly by cloning this repository, creating a branch, pushing a branch and opening a pull request.
 
-Every contribution should be in line with the [CCG Guidelines]:(https://github.com/ClimateCompatibleGrowth/guidelines).
+Every contribution should be in line with the [CCG_Guidelines]:(https://github.com/ClimateCompatibleGrowth/guidelines).
