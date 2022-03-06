@@ -2,7 +2,7 @@
 
 This section includes a test multi-regional CLEWs model to study the variation of commodity prices as policies and investments are implemented across borders and across the CLEW systems.
 
-The test case is built with the model generator OSeMOSYS in its GNU MathProg implementation and is run as any other GNU MathProg OSeMOSYS model (for reference, see the [OSeMOSYS_Repository]:(https://github.com/OSeMOSYS/OSeMOSYS_GNU_MathProg))
+The test case is built with the model generator OSeMOSYS in its GNU MathProg implementation and is run as any other GNU MathProg OSeMOSYS model (for reference, see the [OSeMOSYS Repository](https://github.com/OSeMOSYS/OSeMOSYS_GNU_MathProg))
 
 ### Attribution
 
